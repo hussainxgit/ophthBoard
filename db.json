@@ -1,6 +1,9 @@
 {
     status : "success",
     data : {
-        "user" : { "id" : 1, "email" : "robinx5.q8@gmail.com", "name" : "Hussain SK", "phone" : "62228494"}
+        "user" : { "id" : 1,
+                  "email" : "robinx5.q8@gmail.com",
+                  "name" : "Hussain SK",
+                  "phone" : 62228494}
      }
 }
